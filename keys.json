@@ -1,9 +1,17 @@
-{
-  "HATOKI-VIP-001": "TW96aWxsYS81LjAgKExpbnV4OyBBbmRyb2lkIDEzOyBTTS1HOTgxQikgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEzOC4wLjAuMCBNb2JpbGUgU2FmYXJpLzUzNy4zNjQxMjkxNUFzaWEvU2FpZ29u",
-  "HATOKI-VIP-002": "TW96aWxsYS81LjAgKExpbdsbfuOyBBbmRyb2lkIDEzOyBTTS1HOTgxQikgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEzOC4wLjAuMCBNb2JpbGUgU2FmYXJpLzUzNy4zNjQxMjkxNUFzaWEvU2FpZ29u",
-  "HAOHAN": "TW96aWxsYS81LjAgKExpbnV4OyBBbmRyb2lkIDEzOyBTTS1HOTgxQikgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEzOC4wLjAuMCBNb2JpbGUgU2FmYXJpLzUzNy4zNjQxMjkxNUFzaWEvU2FpZ29u",
-  "HTBK3": "TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV09XNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEzMi4wLjY4MTIuNzYgU2FmYXJpLzUzNy4zNjQzMDkzMkFzaWEvU2FpZ29u",
-  "FUCK1": "TW96aWxsYS81LjAgKExpbnV4OyBBbmRyb2lkIDYuMDsgTmV4dXMgNSBCdWlsZC9NUkE1OE4pIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMzguMC4wLjAgTW9iaWxlIFNhZmFyaS81MzcuMzY6OjE0NDA6Ojg2Njo6MjQ6OjI6OjQ6OldpbjMy",
-  "concac": "TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEyOC4wLjAuMCBTYWZhcmkvNTM3LjM2MTkyMDEwODBBc2lhL1NhaWdvbg=="
-
-}
+[
+  {
+    "key": "HATOKI-VIP-001",
+    "active": true,
+    "note": "Dành cho user A"
+  },
+  {
+    "key": "HTBK3",
+    "active": false,
+    "note": "Key bị khóa"
+  },
+  {
+    "key": "FUCK1",
+    "active": true,
+    "note": "Test key"
+  }
+]

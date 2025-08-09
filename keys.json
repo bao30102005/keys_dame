@@ -2,16 +2,19 @@
   {
     "key": "HATOKI-VIP-001",
     "active": true,
-    "note": "Dành cho user A"
+    "note": "Dành cho user A",
+    "fingerprint": null
   },
   {
     "key": "HTBK3",
     "active": false,
-    "note": "Key bị khóa"
+    "note": "Key bị khóa",
+    "fingerprint": null
   },
   {
     "key": "FUCK1",
     "active": true,
-    "note": "Test key"
+    "note": "Test key",
+    "fingerprint": "U29tZSBleGFtcGxlIGZpbmdlcnByaW50"  // Ví dụ đã gắn fingerprint
   }
 ]

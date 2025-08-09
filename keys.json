@@ -14,7 +14,7 @@
   {
     "key": "FUCK1",
     "active": true,
-    "note": "Test key",
-    "fingerprint": "U29tZSBleGFtcGxlIGZpbmdlcnByaW50"  // Ví dụ đã gắn fingerprint
+    "note": "Test key - Ví dụ đã gắn fingerprint",
+    "fingerprint": "TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEzOC4wLjAuMCBTYWZhcmkvNTM3LjM2dmktVk4xOTIwMTA4MEFzaWEvU2FpZ29u"
   }
 ]
